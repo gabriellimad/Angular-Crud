@@ -1,0 +1,13 @@
+.toolbar {
+    position: fixed;
+    bottom: 0;
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+.toolbar span {
+    font-weight: 300;
+    font-size: 1.1rem;
+}
+
