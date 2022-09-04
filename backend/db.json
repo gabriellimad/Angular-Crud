@@ -1,19 +1,54 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Caneta",
-            "price": 5.89
-        },
-        {
-            "id": 1,
-            "name": "Caneta",
-            "price": 5.89
-        },
-        {
-            "id": 1,
-            "name": "Caneta",
-            "price": 5.89
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta",
+      "price": 5.89
+    },
+    {
+      "id": 1,
+      "name": "Caneta",
+      "price": 5.89
+    },
+    {
+      "id": 1,
+      "name": "Caneta",
+      "price": 5.89
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.98,
+      "id": 2
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.98,
+      "id": 3
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 4
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 5
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 6
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 7
+    },
+    {
+      "name": "Celular",
+      "price": "990,00",
+      "id": 8
+    }
+  ]
 }
